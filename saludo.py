@@ -1,0 +1,16 @@
+print("Hello world!")
+n1 = 9
+n2 = 3
+print("La suma es: ", n1 + n2)
+print("La resta es: ", n1 - n2)
+print("La multiplicación es: ", n1 * n2)
+print("La división es: ", n1 / n2)
+n1 = int(input("Ingrese el primer número: "))
+n2 = int(input("Ingrese el segundo número: "))
+print("La suma es: ", n1 + n2)
+print("La resta es: ", n1 - n2)
+print("La multiplicación es: ", n1 * n2)
+print("La división es: ", n1 / n2)
+l1 = float(input("Ingrese el primer lado del rectángulo:"))
+l2 = float(input("Ingrese el segundo lado del rectángulo:"))
+print("El área del rectángulo es: ", l1 * l2, "metros cuadrados")
